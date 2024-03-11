@@ -16,7 +16,15 @@ In this challenge, our objective was to create a report using two separate CSV f
 
   
   # My Results
-  ADD LATER AFTER TESTING RESULTS!!
+  ![Screenshot 2024-03-11 at 11 56 19 AM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/3a5d5949-f8af-4129-adb6-62f3ed610b46)
+  ![Screenshot 2024-03-11 at 11 55 44 AM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/ccb8f4a7-d0f8-41b9-a4ce-4cbe3959c84c)
+  ![Screenshot 2024-03-11 at 11 56 53 AM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/ca205bae-26a4-4eaf-bb64-cb629ae2cd69)
+  ![Screenshot 2024-03-11 at 11 57 15 AM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/5b65df1d-8950-4190-8209-a197b2d02299)
+![Screenshot 2024-03-11 at 11 57 30 AM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/c817f83d-1693-4248-9fe8-143576df9b6c)
+
+
+
+
 
  # My Analysis
 
@@ -25,17 +33,31 @@ In this challenge, our objective was to create a report using two separate CSV f
 # Resources Used
 
 Challenges I drew heavily from include the following:
- -
- -
- -
- -
- -
+ - The scatterpy challenge
+ - The family travel challenge, part 1, 2, and 3
+ - The Roller Coaster challenge
+ - The Pie Chart challenge
+ - The box and whisker challenge
+ - The Quartiles and Outliers challenge
+ - The Correlation Conundrum challenge
+ - The Fis and Regression challenge
 
 These challenges, in addition to the other challenges provided, helped teach us the following:
--
--
--
--
--
+- How to merge several datasets 
+- How to plot and label axes using python
+- How to create visualizations using several graphing methods
+- How to calculate quartiles
+- What a correlation coefficient is
+- How to calculate linear regressing
+![Screenshot 2024-03-11 at 12 18 01 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/5b901c99-44a9-405c-8364-e05b3f77c59f)
+![Screenshot 2024-03-11 at 12 17 26 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/20cef8c7-24e5-42b3-b847-edb8a9cbd9d4)
+![Screenshot 2024-03-11 at 12 17 04 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/75a63fc7-714d-472b-b9ad-c0e3cc8dbf18)
+![Screenshot 2024-03-11 at 12 15 41 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/c408b6f5-71b9-41b3-8f43-18ebf17439a7)
+![Screenshot 2024-03-11 at 12 14 17 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/9de7c837-6508-4633-9196-bff58c6822ec)
+![Screenshot 2024-03-11 at 12 12 16 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/7613b3c5-3033-4bfe-bfc2-131918f95ef0)
+![Screenshot 2024-03-11 at 12 12 45 PM](https://github.com/erinengle2024/Matplotlib-Stats-Challenge/assets/158017994/6527cc5e-2a8a-4466-a139-94a748b79299)
+
+
+
  ## Additional Resources
 For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Pandas Documentation, and ChatGPT.  
